@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "kanban-server",
+    "kanban-ui",
+    "kanban-common"
+]
+
+resolver = "2"
